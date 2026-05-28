@@ -1,0 +1,12 @@
+name: Keep WeWe RSS Alive
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"  # 每 2 小时 ping 一次（减轻内存压力）
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping WeWe RSS
+        run: curl -sf https://app-production-ad4a.up.railway.app/ || true

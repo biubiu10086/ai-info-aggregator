@@ -1,0 +1,18 @@
+# Environment variables (API keys)
+.env
+
+
+# Personal articles
+articles/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+/../recording-multitrack-2026-04-22T08-20-04-778Z.wav
