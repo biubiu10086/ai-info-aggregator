@@ -2,7 +2,7 @@ name: Daily AI Digest
 
 on:
   schedule:
-    - cron: "0 23 * * *"  # 每天 UTC 23:00 = 北京时间次日 07:00（落在 DeepSeek 夜间半价时段 00:30-08:30 内）
+    - cron: "0 23 * * *"  # 每天 UTC 23:00 = 北京时间次日 07:00
   workflow_dispatch:       # 支持手动触发
 
 jobs:
@@ -39,3 +39,47 @@ jobs:
           git add output/ data/
           git diff --cached --quiet || git commit -m "daily digest $(date -u +%Y-%m-%d)"
           git push
+
+      - name: Notify DingTalk
+        if: always()
+        env:
+          DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
+        run: |
+          if [ -z "$DINGTALK_WEBHOOK" ]; then
+            echo "DINGTALK_WEBHOOK not set, skipping notification"
+            exit 0
+          fi
+
+          DATE=$(date -u +%Y-%m-%d)
+          FILE="output/AI Daily - ${DATE}.md"
+
+          # 统计文章数
+          if [ -f "$FILE" ]; then
+            COUNT=$(grep -c "^### \[" "$FILE" 2>/dev/null || echo "0")
+            # 提取 top 3 文章标题
+            TOP=$(grep "^### \[" "$FILE" | head -3 | sed 's/### \[/• /;s/\](.*//' | head -3)
+            STATUS="✅ 成功"
+            DETAIL="共 ${COUNT} 篇文章入选"
+          else
+            STATUS="⚠️ 无输出"
+            DETAIL="今日无符合条件的文章"
+            TOP=""
+          fi
+
+          # 构造钉钉消息
+          if [ -n "$TOP" ]; then
+            TEXT="## 🤖 AI 日报 ${DATE}\n\n**${STATUS}** | ${DETAIL}\n\n**Top 文章：**\n${TOP}\n\n[查看完整日报](https://github.com/${{ github.repository }}/blob/main/output/AI%20Daily%20-%20${DATE}.md)"
+          else
+            TEXT="## 🤖 AI 日报 ${DATE}\n\n**${STATUS}** | ${DETAIL}"
+          fi
+
+          # 发送钉钉消息
+          curl -s -X POST "$DINGTALK_WEBHOOK" \
+            -H "Content-Type: application/json" \
+            -d "{
+              \"msgtype\": \"markdown\",
+              \"markdown\": {
+                \"title\": \"AI 日报 ${DATE}\",
+                \"text\": \"${TEXT}\"
+              }
+            }" | jq . 2>/dev/null || echo "DingTalk notification sent"
