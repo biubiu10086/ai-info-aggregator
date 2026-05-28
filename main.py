@@ -16,6 +16,7 @@ from src.history import (
 )
 from src.scorer import process_articles
 from src.writer import write_output
+from src.notify import notify_dingtalk
 
 HISTORY_PATH = "data/pushed.json"
 DEDUP_WINDOW_DAYS = 90
@@ -69,6 +70,11 @@ def main():
     history = prune_history(history, days=DEDUP_WINDOW_DAYS, today=today)
     save_history(HISTORY_PATH, history)
     print(f"History updated: {len(history)} entries retained")
+
+    # 钉钉通知（逐篇发送）
+    dingtalk_webhook = os.environ.get("DINGTALK_WEBHOOK", "")
+    if dingtalk_webhook and kept:
+        notify_dingtalk(dingtalk_webhook, path, delay=1.5)
 
 
 if __name__ == "__main__":

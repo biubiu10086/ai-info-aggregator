@@ -8,7 +8,7 @@
 
 ## 致谢
 
-本项目基于 [AI 信息雷达](https://github.com/hustcc/ai-info-aggregator)（作者：hustcc）进行二次开发，原项目采用 MIT 协议。
+本项目基于 [AI 信息雷达](https://github.com/huifeideyu-1121/ai-info-aggregator)（作者：huifeideyu-1121）进行二次开发，原项目采用 MIT 协议。
 
 **原项目特性：**
 - GitHub Actions 定时运行，全自动抓取 + AI 评分 + 日报生成
@@ -144,4 +144,4 @@ ai-info-aggregator/
 
 ## License
 
-MIT（原项目：[hustcc/ai-info-aggregator](https://github.com/hustcc/ai-info-aggregator)）
+MIT（原项目：[huifeideyu-1121/ai-info-aggregator](https://github.com/huifeideyu-1121/ai-info-aggregator)）
