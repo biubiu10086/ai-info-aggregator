@@ -45,25 +45,36 @@ def _parse_articles(md_content: str) -> list[dict]:
     return articles
 
 
-def _send_dingtalk(webhook: str, title: str, text: str) -> bool:
-    """发送一条钉钉 markdown 消息。"""
+def _send_dingtalk(webhook: str, title: str, text: str, retries: int = 3) -> bool:
+    """发送一条钉钉 markdown 消息，带重试（应对限流）。"""
     payload = json.dumps({
         "msgtype": "markdown",
         "markdown": {"title": title, "text": text}
     }).encode("utf-8")
 
-    req = urllib.request.Request(
-        webhook,
-        data=payload,
-        headers={"Content-Type": "application/json"},
-    )
-    try:
-        resp = urllib.request.urlopen(req, timeout=10)
-        result = json.loads(resp.read())
-        return result.get("errcode") == 0
-    except Exception as e:
-        print(f"  [WARN] DingTalk send failed: {e}")
-        return False
+    for attempt in range(retries):
+        req = urllib.request.Request(
+            webhook,
+            data=payload,
+            headers={"Content-Type": "application/json"},
+        )
+        try:
+            resp = urllib.request.urlopen(req, timeout=10)
+            result = json.loads(resp.read())
+            if result.get("errcode") == 0:
+                return True
+            # 限流：等待后重试
+            if result.get("errcode") in (130001, 300001):
+                wait = 5 * (attempt + 1)
+                time.sleep(wait)
+                continue
+            print(f"  [WARN] DingTalk error: {result}")
+            return False
+        except Exception as e:
+            print(f"  [WARN] DingTalk send failed: {e}")
+            if attempt < retries - 1:
+                time.sleep(3)
+    return False
 
 
 def notify_dingtalk(webhook: str, md_path: str, delay: float = 1.0) -> None:

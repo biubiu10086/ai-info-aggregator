@@ -74,7 +74,7 @@ def main():
     # 钉钉通知（逐篇发送）
     dingtalk_webhook = os.environ.get("DINGTALK_WEBHOOK", "")
     if dingtalk_webhook and kept:
-        notify_dingtalk(dingtalk_webhook, path, delay=1.5)
+        notify_dingtalk(dingtalk_webhook, path, delay=3)
 
 
 if __name__ == "__main__":
