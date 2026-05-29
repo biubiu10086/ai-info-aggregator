@@ -115,24 +115,36 @@ def notify_dingtalk(webhook: str, md_path: str, delay: float = 1.0) -> None:
     time.sleep(delay)
 
     # 逐篇发送
+    total = len(articles)
     for i, a in enumerate(articles, 1):
         tags_str = " ".join(f"`#{t}`" for t in a["tags"])
+
+        # 主题 emoji 映射
+        topic_emoji = {
+            "OPC/AI赚钱案例": "💰",
+            "AI+电商": "🛒",
+            "AI工具实操/Agent工作流": "🔧",
+            "AI新技术/新模型": "🔬",
+            "AI投融资动态": "📈",
+            "AI对行业的冲击": "🌍",
+        }
+        emoji = topic_emoji.get(a["topic"], "📌")
+
         text = (
-            f"### {a['title']}\n\n"
-            f"- **主题**：{a['topic']}\n"
+            f"### {emoji} [{a['title']}]({a['url']})\n\n"
+            f"> **{a['topic']}** | 第 {i}/{total} 篇\n\n"
             f"- **来源**：{a['source']}\n"
             f"- **评分**：{a['score']}\n"
         )
         if tags_str:
             text += f"- **标签**：{tags_str}\n"
         if a["summary"]:
-            text += f"- **摘要**：{a['summary']}\n"
-        text += f"\n[阅读原文]({a['url']})\n"
+            text += f"\n{a['summary']}\n"
 
-        ok = _send_dingtalk(webhook, a["title"][:20], text)
+        ok = _send_dingtalk(webhook, f"{emoji} {a['title'][:20]}", text)
         status = "✅" if ok else "❌"
-        print(f"  {status} [{i}/{len(articles)}] {a['title'][:50]}")
-        if i < len(articles):
+        print(f"  {status} [{i}/{total}] {a['title'][:50]}")
+        if i < total:
             time.sleep(delay)
 
     print(f"[DingTalk] done, {len(articles)} messages sent")
