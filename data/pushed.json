@@ -8909,6 +8909,276 @@
       "pushed_at": "2026-06-08",
       "title": "NAVER与英伟达合作扩建自主AI基础设施，目标推进至吉瓦级算力规模",
       "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u06qb0/got_tired_of_ats_filtering_me_out_so_i_built_one/",
+      "pushed_at": "2026-06-09",
+      "title": "Got tired of ATS filtering me out, so i built one that filters companies instead",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u0b3cu/luce_spark_a_35b_moe_on_a_16_gb_gpu_without_the/",
+      "pushed_at": "2026-06-09",
+      "title": "Luce Spark: a 35B MoE on a 16 GB GPU, without the offload tax",
+      "score": 9
+    },
+    {
+      "url": "https://36kr.com/p/3844006775360002?f=rss",
+      "pushed_at": "2026-06-09",
+      "title": "产品观察 | 小米创始员工范典创业AI硬件，做了台“无摩擦”的睡眠床头灯",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u0okqs/finna_euhosted_search_and_rag_for_ai_apps_keyword/",
+      "pushed_at": "2026-06-09",
+      "title": "Finna – EU-hosted search and RAG for AI apps (keyword + vector + hybrid)",
+      "score": 8
+    },
+    {
+      "url": "https://www.cc.dev/",
+      "pushed_at": "2026-06-09",
+      "title": "Show HN: Command Center, the AI coding env for people who care about quality",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u0p3b2/pipeline_parallelism_in_llamacpp_may_be_wasting/",
+      "pushed_at": "2026-06-09",
+      "title": "Pipeline parallelism in llama.cpp may be wasting your VRAM",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u0nf6t/i_built_a_tool_that_tailors_resumes_and_cover/",
+      "pushed_at": "2026-06-09",
+      "title": "I built a tool that tailors resumes and cover letters to job descriptions because I got tired of rewriting mine for every application",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u08hwa/launched_yesterday_celebrating_small_wins/",
+      "pushed_at": "2026-06-09",
+      "title": "Launched yesterday. Celebrating small wins",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u0j78p/i_built_a_free_skill_that_takes_you_from_i_have/",
+      "pushed_at": "2026-06-09",
+      "title": "I built a free skill that takes you from \"I have an app idea\" to a real plan and solid MVP",
+      "score": 7
+    },
+    {
+      "url": "https://www.therundown.ai/p/washington-wants-a-piece-of-openai",
+      "pushed_at": "2026-06-09",
+      "title": "Washington wants a piece of OpenAI",
+      "score": 7
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything",
+      "pushed_at": "2026-06-09",
+      "title": "Siri AI at WWDC 2026",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/Nick-is-building/ast-guard",
+      "pushed_at": "2026-06-09",
+      "title": "Show HN: AST-guard – Fast, zero-cost structural checks for LLM code execution",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "pushed_at": "2026-06-09",
+      "title": "RyanCodrai/turbovec",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/refactoringhq/tolaria",
+      "pushed_at": "2026-06-09",
+      "title": "refactoringhq/tolaria",
+      "score": 7
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
+      "pushed_at": "2026-06-09",
+      "title": "Apple will let you build workflows using AI in its new Shortcuts app",
+      "score": 7
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/432084.html",
+      "pushed_at": "2026-06-09",
+      "title": "马斯克SpaceX路演PPT：60页，值1.77万亿美元",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/p/3841459663030532?f=rss",
+      "pushed_at": "2026-06-09",
+      "title": "「华超神控」获亿元天使系列融资，加速打造新一代AI超声脑机接口平台 | 36氪首发",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u0li53/i_got_1300_visitors_in_30_days_from_people_tired/",
+      "pushed_at": "2026-06-09",
+      "title": "I got 1,300 visitors in 30 days from people tired of paywalled \"free\" tools. Just shipped an AI background remover.",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u0kcy0/my_first_app_a_tool_that_scans_leases_for_risky/",
+      "pushed_at": "2026-06-09",
+      "title": "My first app: a tool that scans leases for risky clauses",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u0mbp5/any_link_to_md_file/",
+      "pushed_at": "2026-06-09",
+      "title": "Any link to MD file",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/las7/Guarden",
+      "pushed_at": "2026-06-09",
+      "title": "Show HN: Guarden – Authorization for AI agent actions powered by OPA",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/kerbelp/metatron",
+      "pushed_at": "2026-06-09",
+      "title": "Show HN: Metatron – give coding agents your team's conventions over MCP",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u0cpbm/i_bundled_a_fully_local_llm_inside_my_unity_game/",
+      "pushed_at": "2026-06-09",
+      "title": "I bundled a fully local LLM inside my Unity game. No internet, no cloud, no API key. The conversation is the gameplay.",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u0isbo/qwen3635ba3b_tool_calling_benchmark_byteshape_vs/",
+      "pushed_at": "2026-06-09",
+      "title": "Qwen3.6-35B-A3B tool calling benchmark: ByteShape vs. Unsloth GGUFs, KV cache quants & long context performance",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u0di9u/an_implementation_of_nanoquant_a_flexible_binary/",
+      "pushed_at": "2026-06-09",
+      "title": "An Implementation of NanoQuant: A flexible binary quantization method",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/microsoft/pg_durable",
+      "pushed_at": "2026-06-09",
+      "title": "microsoft/pg_durable",
+      "score": 6
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
+      "pushed_at": "2026-06-09",
+      "title": "Amazon now lets you design custom merch using AI",
+      "score": 6
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/432581.html",
+      "pushed_at": "2026-06-09",
+      "title": "AI创业者集结！“2026新一代人工智能（深圳）创业创新大赛”正式启动",
+      "score": 6
+    },
+    {
+      "url": "https://www.ifanr.com/1668337?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-06-09",
+      "title": "对话 MiniMax 择因：Agent 终会超过人类，我们又将何去何从？",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u0ivkd/i_built_an_app_that_converts_any_text_into/",
+      "pushed_at": "2026-06-09",
+      "title": "I built an app that converts any text into high-quality audio. It works with PDFs, blog posts, Substack and Medium links, and even photos of text.",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u0l2uz/existing_allinone_workspaces_didnt_cut_it_so_i/",
+      "pushed_at": "2026-06-09",
+      "title": "Existing all-in-one workspaces didn't cut it, so I spent 4 months building my own",
+      "score": 5
+    },
+    {
+      "url": "https://runapi.ai/",
+      "pushed_at": "2026-06-09",
+      "title": "Show HN: RunAPI – one API for AI video, image, music, audio, and LLMs",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/ulrischa/AnimateScrollTriggered/tree/main",
+      "pushed_at": "2026-06-09",
+      "title": "Show HN: AnimateScrollTriggered:Animate.css with CSS scroll-triggered animations",
+      "score": 5
+    },
+    {
+      "url": "https://medium.com/towards-artificial-intelligence/mcp-apps-build-interactive-apps-directly-inside-your-ai-agents-chat-c571678099e3",
+      "pushed_at": "2026-06-09",
+      "title": "Show HN: Stop returning raw JSON from MCP servers, build rich inline UIs",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u06jel/kvcache_avoid_kv_cells_copies_by_ggerganov_pull/",
+      "pushed_at": "2026-06-09",
+      "title": "kv-cache : avoid kv cells copies by ggerganov · Pull Request #24277 · ggml-org/llama.cpp",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u08j3q/mtmd_add_video_input_support_by_ngxson_pull/",
+      "pushed_at": "2026-06-09",
+      "title": "mtmd : add video input support by ngxson · Pull Request #24269 · ggml-org/llama.cpp",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u0luw0/what_is_your_best_coding_model_on_a_dgx_spark/",
+      "pushed_at": "2026-06-09",
+      "title": "What is your best coding model on a DGX Spark?",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u0ob9t/what_harness_are_you_guys_using_and_for_what_use/",
+      "pushed_at": "2026-06-09",
+      "title": "What harness are you guys using and for what use case?",
+      "score": 5
+    },
+    {
+      "url": "https://www.practicalecommerce.com/how-reddit-drives-genai-visibility",
+      "pushed_at": "2026-06-09",
+      "title": "How Reddit Drives GenAI Visibility",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3844559758936582?f=rss",
+      "pushed_at": "2026-06-09",
+      "title": "氪星晚报｜追觅质押嘉美包装2.47亿股，向兴业银行贷款提供担保；黄仁勋：SK海力士到2030年将晶圆产能翻倍的计划还不够",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3844018911889924?f=rss",
+      "pushed_at": "2026-06-09",
+      "title": "腾讯汤道生评价姚顺雨、混元 3和元宝",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3844199957236227?f=rss",
+      "pushed_at": "2026-06-09",
+      "title": "改变全球速度的AI，付款却卡在上一个时代",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3845181836232968?f=rss",
+      "pushed_at": "2026-06-09",
+      "title": "日本电信巨头NTT拟设立规模5亿美元的光网络基金",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3845162610002178?f=rss",
+      "pushed_at": "2026-06-09",
+      "title": "中信建投：低轨卫星组网加速，Computex多款新品发布",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3845149412018434?f=rss",
+      "pushed_at": "2026-06-09",
+      "title": "主观策略股票私募加快引入AI，打破“AI只适配量化投资”固有观念",
+      "score": 5
     }
   ]
 }
