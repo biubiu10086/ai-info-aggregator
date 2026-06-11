@@ -9449,6 +9449,294 @@
       "pushed_at": "2026-06-10",
       "title": "Sandstone raises $30M to bring AI to in-house legal teams",
       "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u2hhki/what_ai_tools_have_actually_become_part_of_your/",
+      "pushed_at": "2026-06-11",
+      "title": "What AI tools have actually become part of your daily workflow?",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u2fdp1/i_built_an_codeless_ai_tool_that_ships_full/",
+      "pushed_at": "2026-06-11",
+      "title": "I built an codeless AI tool that ships full production-level apps from only a few words — AI integration + data gathering included, no setup",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u2ikeg/been_building_a_personal_finance_app_solo_for_a/",
+      "pushed_at": "2026-06-11",
+      "title": "Been building a personal finance app solo for a while. Looking for more testers who will actually give feedback",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u2grlt/built_an_ios_app_where_5_ais_argue_your_hardest/",
+      "pushed_at": "2026-06-11",
+      "title": "built an ios app where 5 AIs argue your hardest decision before giving you a verdict — 16, solo, launching soon, here's the honest state of things",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u2czym/turned_my_personal_dashboard_into_an_opensource/",
+      "pushed_at": "2026-06-11",
+      "title": "Turned my personal dashboard into an open-source local self-growing wiki tool. Runs on a local LLM and uses flourishing research to turn your data into action",
+      "score": 7
+    },
+    {
+      "url": "https://www.therundown.ai/p/anthropic-hands-the-public-mythos-class-ai",
+      "pushed_at": "2026-06-11",
+      "title": "Anthropic hands the public Mythos-class AI",
+      "score": 5
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-anthropic-claude-fable-5-mythos",
+      "pushed_at": "2026-06-11",
+      "title": "[AINews] Anthropic Claude Fable 5 — Mythos but Safe, with Controversial Terms",
+      "score": 9
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything",
+      "pushed_at": "2026-06-11",
+      "title": "datasette-agent 0.2a0",
+      "score": 8
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything",
+      "pushed_at": "2026-06-11",
+      "title": "DiffusionGemma",
+      "score": 8
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything",
+      "pushed_at": "2026-06-11",
+      "title": "If Claude Fable stops helping you, you'll never know",
+      "score": 5
+    },
+    {
+      "url": "https://www.topolog.co.uk",
+      "pushed_at": "2026-06-11",
+      "title": "Show HN: Topolog – Plans as typed DAG programs, deadlines computed, not guessed",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/scottpurdy/llmbuffer",
+      "pushed_at": "2026-06-11",
+      "title": "Show HN: Llmbuffer – Python library for cache-optimized LLM conversation history",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/mattmireles/magenta-realtime-2-iphone",
+      "pushed_at": "2026-06-11",
+      "title": "Show HN: Magenta Real-Time Music Generation Locally on iPhone, Without the GPU",
+      "score": 7
+    },
+    {
+      "url": "https://meadow-notes.com",
+      "pushed_at": "2026-06-11",
+      "title": "Show HN: Meadow Notes – extract and publish microsites from your Markdown graphs",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/crlang44/AuroraBg",
+      "pushed_at": "2026-06-11",
+      "title": "Show HN: A spacey, subtle background shader for VSCode",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/bellpesce/succes",
+      "pushed_at": "2026-06-11",
+      "title": "Show HN: Stochastc Unit Commmitment Using Genetic Algorithm",
+      "score": 5
+    },
+    {
+      "url": "https://new.roman-names.com/",
+      "pushed_at": "2026-06-11",
+      "title": "Show HN: I am building a map of people who lived in the Roman Empire",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u26s8n/diffusiongemma_4x_faster_text_generation/",
+      "pushed_at": "2026-06-11",
+      "title": "DiffusionGemma: 4x faster text generation",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u29mlk/deepmind_just_dropped_diffusiongemma_text/",
+      "pushed_at": "2026-06-11",
+      "title": "DeepMind Just Dropped \"DiffusionGemma\" — Text Generation via Image-Style Diffusion Model",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u277fg/flashmemorydeepseekv4_lightning_index_ultralong/",
+      "pushed_at": "2026-06-11",
+      "title": "FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u1za0m/cohere_released_north_mini_code_its_first/",
+      "pushed_at": "2026-06-11",
+      "title": "Cohere released North Mini Code: It's first Open-Source Agentic Coding Model",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u26wkb/lemonade_v107_release_and_project_organization/",
+      "pushed_at": "2026-06-11",
+      "title": "Lemonade v10.7 release and project organization update",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u1wo8p/can_you_really_replace_paid_models_with_a_local/",
+      "pushed_at": "2026-06-11",
+      "title": "Can you really replace paid models with a local model?",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u25dkn/sensenova_u1_dropped_an_infographicspecific/",
+      "pushed_at": "2026-06-11",
+      "title": "SenseNova U1 dropped an infographic-specific finetune",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u1yxcr/all_agents_have_awful_security_mine_isnt/",
+      "pushed_at": "2026-06-11",
+      "title": "All agents have awful security. Mine isn't vibecoded. You might have seen my post about OpenLumara... i challenge you all to hack my public instance of it!",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u2f8uz/tried_to_benchmark_googles_new_ondevice_dictation/",
+      "pushed_at": "2026-06-11",
+      "title": "Tried to benchmark Google’s new on-device dictation models (Eloquent) and basically couldn’t",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u2ch6u/hot_take_rigid_code_is_better_than_flexible_code/",
+      "pushed_at": "2026-06-11",
+      "title": "Hot Take \"Rigid code is better than Flexible code if you're on a budget\"",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "pushed_at": "2026-06-11",
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/maziyarpanahi/openmed",
+      "pushed_at": "2026-06-11",
+      "title": "maziyarpanahi/openmed",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/francescopace/espectre",
+      "pushed_at": "2026-06-11",
+      "title": "francescopace/espectre",
+      "score": 7
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+      "pushed_at": "2026-06-11",
+      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+      "score": 5
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+      "pushed_at": "2026-06-11",
+      "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+      "score": 6
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+      "pushed_at": "2026-06-11",
+      "title": "How memory tools can make AI models worse",
+      "score": 5
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+      "pushed_at": "2026-06-11",
+      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+      "score": 7
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+      "pushed_at": "2026-06-11",
+      "title": "Warner Music acquires AI attribution startup Sureel AI",
+      "score": 5
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+      "pushed_at": "2026-06-11",
+      "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
+      "score": 6
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
+      "pushed_at": "2026-06-11",
+      "title": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
+      "score": 5
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+      "pushed_at": "2026-06-11",
+      "title": "Meta signs first AI data center deal in India with Reliance",
+      "score": 7
+    },
+    {
+      "url": "https://trends.vc/clipping-businesses-pay-per-view-distribution-clip-armies-view-verification/",
+      "pushed_at": "2026-06-11",
+      "title": "Clipping Businesses: Pay-Per-View Distribution, Clip Armies, View Verification",
+      "score": 9
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/433516.html",
+      "pushed_at": "2026-06-11",
+      "title": "百度智能云与FluxA达成战略合作，共建 Agent 经济全球支付基础设施",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3848000003953926?f=rss",
+      "pushed_at": "2026-06-11",
+      "title": "8点1氪丨世界杯门票遇冷，近18万张门票待转售；台积电释放涨价信号；但斌回应“被段永平拉黑”",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3847079661193733?f=rss",
+      "pushed_at": "2026-06-11",
+      "title": "氪星晚报｜韩IT巨头Kakao工会史上首次启动局部罢工；三星考虑新建先进芯片封装厂，以满足全球芯片需求；SK海力士最早将于8月在美国上市",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3846956646124036?f=rss",
+      "pushed_at": "2026-06-11",
+      "title": "独家｜字节 AI 制药开启拆分融资，AI4S 进入产业化阶段",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/p/3846793046133257?f=rss",
+      "pushed_at": "2026-06-11",
+      "title": "最前线｜AI跨境电商工具混战，StoreClaw想用“一个大脑”接管卖家的店",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/p/3846789531404549?f=rss",
+      "pushed_at": "2026-06-11",
+      "title": "36氪首发 | 清华团队做出全球首个实时理解生理与情绪的基座模型，进一步布局硬件",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/p/3844720012151040?f=rss",
+      "pushed_at": "2026-06-11",
+      "title": "清华系团队做分布式预测世界模型、获数亿元A轮融资，落地终端设备达十万量级｜硬氪首发",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3848013541659905?f=rss",
+      "pushed_at": "2026-06-11",
+      "title": "谷歌推出DiffusionGemma开源模型",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3848001589957895?f=rss",
+      "pushed_at": "2026-06-11",
+      "title": "奥特曼称OpenAI预计一年内上市",
+      "score": 7
     }
   ]
 }
