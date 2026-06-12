@@ -9737,6 +9737,162 @@
       "pushed_at": "2026-06-11",
       "title": "奥特曼称OpenAI预计一年内上市",
       "score": 7
+    },
+    {
+      "url": "https://github.com/activeloopai/hivemind",
+      "pushed_at": "2026-06-12",
+      "title": "activeloopai/hivemind",
+      "score": 9
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything",
+      "pushed_at": "2026-06-12",
+      "title": "datasette 1.0a33",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3849404234667016?f=rss",
+      "pushed_at": "2026-06-12",
+      "title": "AI机器人企业Theker获路威酩轩等投资方8500万美元融资",
+      "score": 8
+    },
+    {
+      "url": "https://www.ifanr.com/1668621?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-06-12",
+      "title": "Codex 大降价要来了，这份官方指南手把手教你高效榨干额度",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u3eexb/news_without_doom_browse_news_with_a_calm_level/",
+      "pushed_at": "2026-06-12",
+      "title": "News Without Doom: browse news with a calm level you like",
+      "score": 7
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/434316.html",
+      "pushed_at": "2026-06-12",
+      "title": "Mythos阴影里谷歌悄悄发模型，速度暴涨4倍",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3849400241018115?f=rss",
+      "pushed_at": "2026-06-12",
+      "title": "从“被投者”到“投资者”，硬科技企业密集设立产业基金",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u32k8z/i_made_a_free_tool_that_turns_any_youtube_video/",
+      "pushed_at": "2026-06-12",
+      "title": "I made a free tool that turns any YouTube video, PDF or article into a summary, flashcards and a quiz",
+      "score": 6
+    },
+    {
+      "url": "https://www.therundown.ai/p/anthropic-writes-washington-an-ai-regulation-playbook",
+      "pushed_at": "2026-06-12",
+      "title": "Anthropic writes Washington an AI regulation playbook",
+      "score": 6
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+      "pushed_at": "2026-06-12",
+      "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
+      "score": 6
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "pushed_at": "2026-06-12",
+      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+      "score": 6
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/434558.html",
+      "pushed_at": "2026-06-12",
+      "title": "1290万高考生看过来！阿里出了个志愿填报Agent，免费的",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3849425680143369?f=rss",
+      "pushed_at": "2026-06-12",
+      "title": "应用数字公司完成15.9亿美元AI债务融资",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u3c8nh/i_built_an_app_with_fewer_features_than/",
+      "pushed_at": "2026-06-12",
+      "title": "I built an app with fewer features than competitors in an oversaturated market... I'm happy with it",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u3556s/built_a_chrome_extension_because_i_kept_pausing/",
+      "pushed_at": "2026-06-12",
+      "title": "Built a Chrome extension because I kept pausing videos to Google words I didn't understand.",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u2weys/built_a_pcbuilder_that_picks_every_compatible/",
+      "pushed_at": "2026-06-12",
+      "title": "Built a PC-builder that picks every compatible part for your budget, priced live from Amazon",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u3eq9z/built_a_project_that_lets_social_media_creators/",
+      "pushed_at": "2026-06-12",
+      "title": "Built a project that lets social media creators find their competitors viral content, and then repurpose it for themselves.",
+      "score": 5
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-open-models-model-labs-vs",
+      "pushed_at": "2026-06-12",
+      "title": "[AINews] Open Models, Model Labs vs Agent Labs, and What's Untrainable — Sarah Guo",
+      "score": 5
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything",
+      "pushed_at": "2026-06-12",
+      "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/leonardosalasd/doc-engine-cli",
+      "pushed_at": "2026-06-12",
+      "title": "Show HN: Markdown to PDF generation without LaTeX",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/pylit-ai/opendream",
+      "pushed_at": "2026-06-12",
+      "title": "Show HN: OpenDream – local-first memory with dreaming for AI agents",
+      "score": 5
+    },
+    {
+      "url": "https://www.ecommercebytes.com/2026/06/11/amazon-to-use-ai-to-enforce-new-product-title-limits/",
+      "pushed_at": "2026-06-12",
+      "title": "Amazon to Use AI to Enforce New Product Title Limits",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3849438848390144?f=rss",
+      "pushed_at": "2026-06-12",
+      "title": "AI重塑底层逻辑，数据库重新站上风口",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3849437411021827?f=rss",
+      "pushed_at": "2026-06-12",
+      "title": "中金：美元流动性扩张的引擎正在经历一场“大切换”",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3849421770658823?f=rss",
+      "pushed_at": "2026-06-12",
+      "title": "Alphabet旗下自动驾驶公司Waymo将推出30美元月费会员计划",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3849398085473542?f=rss",
+      "pushed_at": "2026-06-12",
+      "title": "沃尔玛与Wing无人机配送扩展至七个新都会区",
+      "score": 5
     }
   ]
 }
