@@ -9893,6 +9893,198 @@
       "pushed_at": "2026-06-12",
       "title": "沃尔玛与Wing无人机配送扩展至七个新都会区",
       "score": 5
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+      "pushed_at": "2026-06-13",
+      "title": "Mistral is rumored to be raising €3B at €20B valuation",
+      "score": 9
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "pushed_at": "2026-06-13",
+      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u4a7g3/my_just_add_subtitles_side_quest_turned_into_an/",
+      "pushed_at": "2026-06-13",
+      "title": "My \"just add subtitles\" side quest turned into an entire video editor for captions",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u406nk/i_built_a_free_editor_for_html_slide_decks_from/",
+      "pushed_at": "2026-06-13",
+      "title": "I built a free editor for HTML slide decks from Claude/GPT — edit them like PowerPoint, right in your browser, no sign-up, data stays in your browser",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/Sohex/musefs",
+      "pushed_at": "2026-06-13",
+      "title": "Show HN: Musefs – organize and tag music without touching the original files",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/chatwoot/chatwoot",
+      "pushed_at": "2026-06-13",
+      "title": "chatwoot/chatwoot",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u3r3f7/built_a_sleep_app_solo_now_1k_daily_users_in/",
+      "pushed_at": "2026-06-13",
+      "title": "Built a sleep app solo, now ~1k daily users in China — and the simplest scene (a wheat field in the wind) became the favorite",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u3zgig/i_got_tired_of_free_tools_that_upload_your_files/",
+      "pushed_at": "2026-06-13",
+      "title": "I got tired of \"free\" tools that upload your files or need an account, so I built 140+ that don't",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/Kapperchino/agent-joe",
+      "pushed_at": "2026-06-13",
+      "title": "Show HN: Agent Joe – a Rust only coding agent with no shell access",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/Kareem-Rashed/rubric-eval",
+      "pushed_at": "2026-06-13",
+      "title": "Show HN: Rubric – test what your LLM agent did, not just what it said",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/kenn-io/agentsview",
+      "pushed_at": "2026-06-13",
+      "title": "kenn-io/agentsview",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/hexo-ai/sia",
+      "pushed_at": "2026-06-13",
+      "title": "hexo-ai/sia",
+      "score": 7
+    },
+    {
+      "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+      "pushed_at": "2026-06-13",
+      "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+      "score": 7
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+      "pushed_at": "2026-06-13",
+      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/p/3849520020231432?f=rss",
+      "pushed_at": "2026-06-13",
+      "title": "36氪首发 | 前瓦锡兰老兵创业，为船舶装上中国“心脏”，半年超 5000万订单",
+      "score": 7
+    },
+    {
+      "url": "https://www.ifanr.com/1668803?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-06-13",
+      "title": "华为发布鸿蒙 7：AI 时代，追赶者正在反超",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u3yu4x/i_built_an_app_that_changes_the_way_people_save/",
+      "pushed_at": "2026-06-13",
+      "title": "I built an app that changes the way people save things. It just passed 10,000 users in 3 months (no ads).",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u4ajii/im_building_an_app_that_records_your_parents/",
+      "pushed_at": "2026-06-13",
+      "title": "I'm building an app that records your parents' voice and stories before it's too late!",
+      "score": 6
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-loopcraft-the-art-of-stacking",
+      "pushed_at": "2026-06-13",
+      "title": "[AINews] Loopcraft: The Art of Stacking Loops",
+      "score": 6
+    },
+    {
+      "url": "https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything",
+      "pushed_at": "2026-06-13",
+      "title": "OpenAI WebRTC Audio Session, now with document context",
+      "score": 6
+    },
+    {
+      "url": "https://www.webcli.sh/?hn",
+      "pushed_at": "2026-06-13",
+      "title": "Show HN: Full browser interaction from CLI for AI",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+      "pushed_at": "2026-06-13",
+      "title": "alchaincyf/zhangxuefeng-skill",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3846798967818752?f=rss",
+      "pushed_at": "2026-06-13",
+      "title": "36氪研究院 | 2026年中国工业用品制造与流通报告",
+      "score": 6
+    },
+    {
+      "url": "https://www.ifanr.com/1668693?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-06-13",
+      "title": "AI 给土豆编了一门学科，我去查了查，它竟然是真的",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u3rguf/got_more_paid_users_after_google_ai_recommended_me/",
+      "pushed_at": "2026-06-13",
+      "title": "Got more paid users after Google AI recommended me",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u3w6yg/made_my_first_ever_sale_299_from_a_stranger_in/",
+      "pushed_at": "2026-06-13",
+      "title": "Made my first ever sale — €2.99 from a stranger in the Netherlands, on an app with 19 total installs",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u493f2/i_built_a_narrative_debugger_for_markets_looking/",
+      "pushed_at": "2026-06-13",
+      "title": "I built a narrative debugger for markets — looking for the first people who actually get it",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/link-society/localaz",
+      "pushed_at": "2026-06-13",
+      "title": "Show HN: Vibecoded local Azure emulator inspired by LocalStack and localgcp",
+      "score": 5
+    },
+    {
+      "url": "https://www.producthunt.com/products/qursor",
+      "pushed_at": "2026-06-13",
+      "title": "Qursor",
+      "score": 5
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/435196.html",
+      "pushed_at": "2026-06-13",
+      "title": "千里收购了一家毫米波雷达公司",
+      "score": 5
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/434761.html",
+      "pushed_at": "2026-06-13",
+      "title": "BEV 杀入具身智能：跨维把机器人数据带上 Scaling 快车道",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/p/3849942472512769?f=rss",
+      "pushed_at": "2026-06-13",
+      "title": "氪星晚报｜SpaceX确定发行价，募资750亿美元创史上最大IPO；OpenAI CEO奥特曼推迟访韩计划；中央网信办举报中心开设“涉AI应用乱象举报专区”",
+      "score": 5
     }
   ]
 }
