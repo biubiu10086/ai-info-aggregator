@@ -10319,6 +10319,156 @@
       "pushed_at": "2026-06-15",
       "title": "NVIDIA/SkillSpector",
       "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u7oqwy/built_an_app_that_turns_i_want_to_learn_x_into_a/",
+      "pushed_at": "2026-06-17",
+      "title": "built an app that turns \"I want to learn X\" into a full roadmap + courses + a tutor that won't let you quit",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u7tngs/i_built_a_free_open_source_reddit_stream_for_your/",
+      "pushed_at": "2026-06-17",
+      "title": "I built a free open source reddit stream for your terminal",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u78ozo/i_built_atlas_a_map_of_everywhere_youve_been_made/",
+      "pushed_at": "2026-06-17",
+      "title": "I built Atlas, a map of everywhere you've been, made automatically from your photos",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u7rc0o/your_friends_are_not_a_validation_framework/",
+      "pushed_at": "2026-06-17",
+      "title": "Your friends are not a validation framework.",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u7h89m/idea_validation_an_ai_companion_that_protects/",
+      "pushed_at": "2026-06-17",
+      "title": "Idea validation: an AI companion that protects lonely seniors from scams",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u7ql0h/i_built_a_tool_that_you_can_use_with_codex_claude/",
+      "pushed_at": "2026-06-17",
+      "title": "I built a tool that you can use with Codex, Claude or Cursor to build better UI",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1u7uo3j/i_got_tired_of_90_of_eu_tech_job_listings_being/",
+      "pushed_at": "2026-06-17",
+      "title": "I got tired of 90% of EU TECH job listings being noise, so I built my AI aggregator 👨‍💻",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/hvardhan878/kevin",
+      "pushed_at": "2026-06-17",
+      "title": "Show HN: Kevin – Claude talk less. Save Money",
+      "score": 5
+    },
+    {
+      "url": "https://odocs.co",
+      "pushed_at": "2026-06-17",
+      "title": "Show HN: Odocs.co – multiplayer draw.io and docs for agent and human collab",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/yuechen-li-dev/oct",
+      "pushed_at": "2026-06-17",
+      "title": "Show HN: The Oct Programming Language for scientific programming",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/apvcode/PromptShark",
+      "pushed_at": "2026-06-17",
+      "title": "Show HN: PromptShark – MitM proxy, C++ loop detector and replay for AI agents",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/nvlabs/cutile-rs",
+      "pushed_at": "2026-06-17",
+      "title": "Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",
+      "score": 5
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+      "pushed_at": "2026-06-17",
+      "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
+      "score": 5
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
+      "pushed_at": "2026-06-17",
+      "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
+      "score": 6
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+      "pushed_at": "2026-06-17",
+      "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
+      "score": 5
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
+      "pushed_at": "2026-06-17",
+      "title": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
+      "score": 5
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+      "pushed_at": "2026-06-17",
+      "title": "Probably raises $9M to build a more reliable kind of AI",
+      "score": 7
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+      "pushed_at": "2026-06-17",
+      "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+      "score": 6
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+      "pushed_at": "2026-06-17",
+      "title": "Want to get a data center online quickly? Give it some flex.",
+      "score": 8
+    },
+    {
+      "url": "https://www.producthunt.com/products/annota",
+      "pushed_at": "2026-06-17",
+      "title": "Annota",
+      "score": 5
+    },
+    {
+      "url": "https://www.qbitai.com/2026/06/436073.html",
+      "pushed_at": "2026-06-17",
+      "title": "一个模型控制手脚腰身！机器人终于学会全身协同干精细活了",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3856496854078468?f=rss",
+      "pushed_at": "2026-06-17",
+      "title": "诺基亚将大幅扩建美国宾州先进测试与封装工厂",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3856492861658121?f=rss",
+      "pushed_at": "2026-06-17",
+      "title": "中信建投：AI+无人机驱动光纤产业链，材料端有望享受量价齐升大趋势",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3856483968570373?f=rss",
+      "pushed_at": "2026-06-17",
+      "title": "证券行业佣金率下行势头仍在延续，沪上A股平均佣金率低至1.73‱",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3856482732823555?f=rss",
+      "pushed_at": "2026-06-17",
+      "title": "OpenAI2026年前三个月烧钱37亿美元",
+      "score": 6
     }
   ]
 }
